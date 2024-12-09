@@ -3,20 +3,20 @@
 /**********************************/
 body {
     font-family: 'Montserrat', sans-serif;
-    color: #757575;
+    color: #000000;
     font-weight: 400;
     background: #ffffff;
 }
 
 a {
-    color: #4F84C4;
+    color: #ff5733;
     transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-    color: #757575;
+    color: ...;
     outline: none;
     text-decoration: none;
 }
